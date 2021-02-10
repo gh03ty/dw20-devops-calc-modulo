@@ -1,4 +1,3 @@
-
 const modulo = require('./modulo');
 
 describe('check operator', () => {
