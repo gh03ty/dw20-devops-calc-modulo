@@ -8,12 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/gh03ty/dw2020-devops-calc-modulo.git"
+    "url": "git+https://github.com/gh03ty/dw20-devops-calc-modulo.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/gh03ty/dw2020-devops-calc-modulo/issues"
+    "url": "https://github.com/gh03ty/dw20-devops-calc-modulo/issues"
   },
-  "homepage": "https://github.com/gh03ty/dw2020-devops-calc-modulo#readme"
+  "homepage": "https://github.com/gh03ty/dw20-devops-calc-modulo#readme"
 }
